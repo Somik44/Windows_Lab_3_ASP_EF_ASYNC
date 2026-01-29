@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\LAb_3_dop_Front\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25D2D4-132D-40F1-9C12-CAD82BC88D0A}|LAb_3_dop_Front\\LAb_3_dop_Front.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0441#\\lab_3_dop_front\\lab_3_dop_front\\apiclient _new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B25D2D4-132D-40F1-9C12-CAD82BC88D0A}|LAb_3_dop_Front\\LAb_3_dop_Front.csproj|solutionrelative:lab_3_dop_front\\apiclient _new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25D2D4-132D-40F1-9C12-CAD82BC88D0A}|LAb_3_dop_Front\\LAb_3_dop_Front.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0441#\\lab_3_dop_front\\lab_3_dop_front\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B25D2D4-132D-40F1-9C12-CAD82BC88D0A}|LAb_3_dop_Front\\LAb_3_dop_Front.csproj|solutionrelative:lab_3_dop_front\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B25D2D4-132D-40F1-9C12-CAD82BC88D0A}|LAb_3_dop_Front\\LAb_3_dop_Front.csproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\LAb_3_dop_Front\\lab_3_dop_front\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B25D2D4-132D-40F1-9C12-CAD82BC88D0A}|LAb_3_dop_Front\\LAb_3_dop_Front.csproj|solutionrelative:lab_3_dop_front\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiClient _new.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\LAb_3_dop_Front\\LAb_3_dop_Front\\ApiClient _new.cs",
+              "RelativeDocumentMoniker": "LAb_3_dop_Front\\ApiClient _new.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\LAb_3_dop_Front\\LAb_3_dop_Front\\ApiClient _new.cs",
+              "RelativeToolTip": "LAb_3_dop_Front\\ApiClient _new.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAA/wGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:41:16.077Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\LAb_3_dop_Front\\LAb_3_dop_Front\\Form1.cs",
+              "RelativeDocumentMoniker": "LAb_3_dop_Front\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\LAb_3_dop_Front\\LAb_3_dop_Front\\Form1.cs",
+              "RelativeToolTip": "LAb_3_dop_Front\\Form1.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:46:30.066Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\LAb_3_dop_Front\\LAb_3_dop_Front\\Form1.cs",
+              "RelativeDocumentMoniker": "LAb_3_dop_Front\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\LAb_3_dop_Front\\LAb_3_dop_Front\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LAb_3_dop_Front\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:00:07.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

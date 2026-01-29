@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0441#\\lab_3_backend\\lab_3_backend\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|solutionrelative:lab_3_backend\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0441#\\lab_3_backend\\lab_3_backend\\models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|solutionrelative:lab_3_backend\\models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0441#\\lab_3_backend\\lab_3_backend\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|solutionrelative:lab_3_backend\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0441#\\lab_3_backend\\lab_3_backend\\controllers\\truckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|solutionrelative:lab_3_backend\\controllers\\truckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0441#\\lab_3_backend\\lab_3_backend\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|solutionrelative:lab_3_backend\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0441#\\lab_3_backend\\lab_3_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|solutionrelative:lab_3_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0441#\\lab_3_backend\\lab_3_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|solutionrelative:lab_3_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0441#\\lab_3_backend\\lab_3_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6481DA42-0745-4CFB-A58D-E85F33404769}|Lab_3_Backend\\Lab_3_Backend.csproj|solutionrelative:lab_3_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PassengerController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Controllers\\PassengerController.cs",
+              "RelativeDocumentMoniker": "Lab_3_Backend\\Controllers\\PassengerController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Controllers\\PassengerController.cs",
+              "RelativeToolTip": "Lab_3_Backend\\Controllers\\PassengerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:18:07.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TruckController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Controllers\\TruckController.cs",
+              "RelativeDocumentMoniker": "Lab_3_Backend\\Controllers\\TruckController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Controllers\\TruckController.cs",
+              "RelativeToolTip": "Lab_3_Backend\\Controllers\\TruckController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:17:42.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "Lab_3_Backend\\Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Models\\Truck.cs",
+              "RelativeToolTip": "Lab_3_Backend\\Models\\Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:17:03.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Models\\Passenger.cs",
+              "RelativeDocumentMoniker": "Lab_3_Backend\\Models\\Passenger.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Models\\Passenger.cs",
+              "RelativeToolTip": "Lab_3_Backend\\Models\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:16:57.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Models\\Cars.cs",
+              "RelativeDocumentMoniker": "Lab_3_Backend\\Models\\Cars.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Models\\Cars.cs",
+              "RelativeToolTip": "Lab_3_Backend\\Models\\Cars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:16:55.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_3_Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Program.cs",
+              "RelativeToolTip": "Lab_3_Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:08:53.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Lab_3_Backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Lab_3_Backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T13:56:08.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab_3_Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0421#\\Lab_3_Backend\\Lab_3_Backend\\appsettings.json",
+              "RelativeToolTip": "Lab_3_Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T13:44:21.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
