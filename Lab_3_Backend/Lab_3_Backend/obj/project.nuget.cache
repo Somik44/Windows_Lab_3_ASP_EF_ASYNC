@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AMxre0PPTWA=",
+  "dgSpecHash": "Z1k60Q3FxaM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\С#\\Lab_3_Backend\\Lab_3_Backend\\Lab_3_Backend.csproj",
+  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\учеба\\C#\\Windows_Lab_3_ASP_EF_ASYNC\\Lab_3_Backend\\Lab_3_Backend\\Lab_3_Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Михаил\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Михаил\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

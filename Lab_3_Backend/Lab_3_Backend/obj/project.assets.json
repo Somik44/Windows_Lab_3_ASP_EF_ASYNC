@@ -7142,11 +7142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\С#\\Lab_3_Backend\\Lab_3_Backend\\Lab_3_Backend.csproj",
+      "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\учеба\\C#\\Windows_Lab_3_ASP_EF_ASYNC\\Lab_3_Backend\\Lab_3_Backend\\Lab_3_Backend.csproj",
       "projectName": "Lab_3_Backend",
-      "projectPath": "C:\\Users\\Михаил\\Desktop\\С#\\Lab_3_Backend\\Lab_3_Backend\\Lab_3_Backend.csproj",
+      "projectPath": "C:\\Users\\Михаил\\Desktop\\учеба\\C#\\Windows_Lab_3_ASP_EF_ASYNC\\Lab_3_Backend\\Lab_3_Backend\\Lab_3_Backend.csproj",
       "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Михаил\\Desktop\\С#\\Lab_3_Backend\\Lab_3_Backend\\obj\\",
+      "outputPath": "C:\\Users\\Михаил\\Desktop\\учеба\\C#\\Windows_Lab_3_ASP_EF_ASYNC\\Lab_3_Backend\\Lab_3_Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7241,7 +7241,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
