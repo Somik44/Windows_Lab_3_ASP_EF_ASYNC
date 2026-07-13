@@ -40,7 +40,6 @@ builder.Services.AddHealthChecks()
         return HealthCheckResult.Healthy($"Instance: {env}");
     });
 
-// CORS
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
@@ -53,7 +52,6 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-//Создание БД при запуске
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<CarDbContext>();
@@ -63,7 +61,7 @@ using (var scope = app.Services.CreateScope())
     }
     catch (Exception ex)
     {
-        Console.WriteLine($"Ошибка создания базы данных: {ex.Message}");
+        Console.WriteLine($"ГЋГёГЁГЎГЄГ  Г±Г®Г§Г¤Г Г­ГЁГї ГЎГ Г§Г» Г¤Г Г­Г­Г»Гµ: {ex.Message}");
     }
 }
 
@@ -74,12 +72,10 @@ app.UseSwaggerUI(options =>
     options.RoutePrefix = "swagger";
 });
 
-// Middleware
 app.UseRouting();
 app.UseCors("AllowAll");
 app.UseAuthorization();
 
-// Endpoints
 app.MapControllers();
 
 // Health Check
